@@ -1,0 +1,14 @@
+com/foreignerds/ReactNativeFlipper.java
+ com.foreignerds.ReactNativeFlipper
+ com.foreignerds.ReactNativeFlipper$1
+ com.foreignerds.ReactNativeFlipper$2
+ com.foreignerds.ReactNativeFlipper$2$1
+com/foreignerds/BuildConfig.java
+ com.foreignerds.BuildConfig
+com/foreignerds/MainActivity.java
+ com.foreignerds.MainActivity
+com/foreignerds/MainApplication.java
+ com.foreignerds.MainApplication
+ com.foreignerds.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

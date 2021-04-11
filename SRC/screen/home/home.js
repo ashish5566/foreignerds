@@ -13,10 +13,7 @@ function Home({navigation}) {
           </View>
         </TouchableOpacity>
         <Text>Home Screen</Text>
-        {/* <Button title="Open drawer" onPress={() => navigation.openDrawer()} /> */}
-      <Button title="Toggle drawer" style={{marginTop:5,marginBottom:5}} onPress={() => navigation.toggleDrawer()} />
-      {/* <Button title="close drawer" style={{marginTop:5,marginBottom:5}} onPress={() => navigation.closeDrawer()} /> */}
-
+         
       
       <TouchableOpacity  style={{marginTop:5,marginBottom:5}} onPress={() => navigation.navigate('Profile')} >
         <View>
